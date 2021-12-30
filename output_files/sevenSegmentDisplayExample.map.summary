@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Dec 30 22:27:32 2021
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : sevenSegmentDisplayExample
+Top-level Entity Name : sevenSegmentDisplayExample
+Family : Cyclone IV E
+Total logic elements : 186
+    Total combinational functions : 186
+    Dedicated logic registers : 82
+Total registers : 82
+Total pins : 13
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

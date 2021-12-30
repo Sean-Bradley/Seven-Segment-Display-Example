@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at sevenSegmentDisplayExample.v(36): always construct contains both blocking and non-blocking assignments File: E:/fgpa-test/Seven-Segment-Display-Example/sevenSegmentDisplayExample.v Line: 36
